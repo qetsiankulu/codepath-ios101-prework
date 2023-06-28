@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/cvksoDN.gif' title='Quizzapp Walkthrough' width='' alt='Quizzapp Walkthrough' />
+<img src='https://i.imgur.com/cvksoDN.gif' title='Quizzapp Walkthrough' width='400' alt='Quizzapp Walkthrough' />
 GIF created with Kap
 
 
