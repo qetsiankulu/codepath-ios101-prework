@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/ykj0JQ3"  ><a href="//imgur.com/a/ykj0JQ3">Quizzapp by Qetsia Nkulu</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Quizzapp Walkthrough' width='' alt='Quizzapp Walkthrough' />
+<img src='' title='Quizzapp Walkthrough' width='' alt='Quizzapp Walkthrough' />
 
 GIF created with Kap
 
