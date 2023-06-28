@@ -1,8 +1,8 @@
-# Prework - *Quizapp*
+# Prework - *Quizzapp*
 
 Submitted by: **Qetsia Nkulu**
 
-**Name of your app** is an app that... [TODO] 
+**Quizzapp** is an app that creates flashcards to help students study impotant terms and definitions relevant to their classes.
 
 Time spent: **1** hours spent in total
 
@@ -17,24 +17,21 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Quizzapp Walkthrough' width='' alt='Quizzapp Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
+<img src='https://i.imgur.com/cvksoDN.gif' title='Quizzapp Walkthrough' width='400' alt='Quizzapp Walkthrough' />
 GIF created with Kap
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## App Brainstorming (Step 4)
 
-## Notes
+Example App: Instagram
+ Changing the background color of the messages screen
+ Deleting old messages
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Qetsia Nkulu
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
