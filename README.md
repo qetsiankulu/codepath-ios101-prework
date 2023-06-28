@@ -23,7 +23,9 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 
-## Notes
+Example App: Instagram
+ Changing the background color of the messages screen
+ Deleting old messages
 
 Describe any challenges encountered while building the app.
 
