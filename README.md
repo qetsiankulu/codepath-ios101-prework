@@ -40,7 +40,8 @@ Example App 2: **Spotify**
 	- Having the app available on multiple platforms (Desktop, Phone, Gaming Console, TV) 
 
 Example App 3: **Whatsapp** 
-	- Having international calling 
+	
+ 	- Having international calling 
  
 	- Being able to archive chats 
 
