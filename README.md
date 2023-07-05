@@ -2,7 +2,7 @@
 
 Submitted by: **Qetsia Nkulu**
 
-**Name of your app** is an app that... [TODO] 
+**ColorPlay* is an app changes the background color with the click of a button.
 
 Time spent: **2** hours spent in total
 
