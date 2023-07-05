@@ -25,25 +25,34 @@ GIF created with Kap
 
 Example App 1: **Reminders** 
 	- Customizing the color and icon of a Reminders list 
-	- Completed items can be hidden 
+ 
+	- Completed items can be hidden  
+ 
 	- Setting the repeat frequency 
 
 Example App 2: **Spotify** 
 	- Using one device to remotely control listening on another device 
+ 
 	- Searching songs by lyrics  
+ 
 	- Having the app available on multiple platforms (Desktop, Phone, Gaming Console, TV) 
 
 Example App 3: **Whatsapp** 
 	- Having international calling 
+ 
 	- Being able to archive chats 
 
 Example App 3: **YouTube** 
 	- Using my phone to remotely control YouTube on my TV
+ 
 	- Creating playlists for saved videos 
+ 
 	- Being able to view my video history 
+ 
 
 Example App 4: **Snapchat** 
 	- Being able to customize an avatar 
+
 	- Having a time capsule of my pictures from past dates 
 
 
