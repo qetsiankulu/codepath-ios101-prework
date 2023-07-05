@@ -24,14 +24,16 @@ GIF created with Kap
 ## App Brainstorming (Step 4)
 
 Example App 1: **Reminders** 
-	- Customizing the color and icon of a Reminders list 
+	
+ 	- Customizing the color and icon of a Reminders list 
  
 	- Completed items can be hidden  
  
 	- Setting the repeat frequency 
 
 Example App 2: **Spotify** 
-	- Using one device to remotely control listening on another device 
+		
+  	- Using one device to remotely control listening on another device 
  
 	- Searching songs by lyrics  
  
@@ -51,7 +53,8 @@ Example App 3: **YouTube**
  
 
 Example App 4: **Snapchat** 
-	- Being able to customize an avatar 
+	
+ 	- Being able to customize an avatar 
 
 	- Having a time capsule of my pictures from past dates 
 
