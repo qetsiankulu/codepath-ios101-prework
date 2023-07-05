@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/cvksoDN.gif' title='ColorPlay Walkthrough' width='' alt='ColorPlay Walkthrough' />
+<img src='https://i.imgur.com/ME6JJab.gif' title='ColorPlay Walkthrough' width='' alt='ColorPlay Walkthrough' />
 
 GIF created with Kap
 
@@ -62,6 +62,7 @@ Example App 4: **Snapchat**
 
 
 App Idea: **Quizzapp**
+
 **Quizzapp** is an app that creates flashcards to help students study important terms and definitions relevant to their classes. 
 
 
